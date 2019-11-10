@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ih64264632.github.io/website/",
+  "homepage": "https://ih64264632.github.io/ih64264632.github.io/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
